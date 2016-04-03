@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=txt
+comment0.target=Text(java.lang.String)
+comment1.params=txt
+comment1.target=void\ setText(java.lang.String)
+numComments=2
