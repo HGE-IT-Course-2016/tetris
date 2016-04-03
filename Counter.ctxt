@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Counter()
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=z\ n
+comment2.target=int\ pbr(int,\ int)
+comment2.text=\r\n\ Berechnet\ die\ Punkte\r\n\ \r\n\ @param\ z\ Die\ Anzahl\ gel\u00F6schter\ Zeilen\r\n\ @param\ n\ Das\ aktuelle\ Level\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4
