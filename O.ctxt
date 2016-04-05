@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=O()
+comment0.text=\r\n\ O\ ist\ ein\ ganz\ bestimmter\ Stein.\ Das\ h\u00E4ttest\ du\ jetzt\ vielleicht\ nicht\ er-\r\n\ wartet,\ aber\ manchmal\ muss\ man\ der\ Realtit\u00E4t\ eben\ ins\ Auge\ sehen.\r\n\ \r\n\ Ja,\ O\ ist\ ein\ Stein.\r\n
+comment1.params=r
+comment1.target=boolean\ checkRot(int)
+comment2.params=
+comment2.target=void\ renewLocation()
+comment3.params=
+comment3.target=boolean\ canFall()
+numComments=4
